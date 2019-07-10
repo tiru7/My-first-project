@@ -1,3 +1,3 @@
 # My-first-project
-Basics
+Basics readme edited conflict1
 This is a branch
