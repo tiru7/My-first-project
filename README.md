@@ -1,3 +1,4 @@
 # My-first-project
-Basics
+Basic
 This is a branch
+This is a branch2
